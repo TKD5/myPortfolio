@@ -87,7 +87,7 @@ input, select, textarea {
 		}
 	}
 
-	.fa-linkedin, .fa-line, .fa-github {
+	.fa-linkedin, .fa-instagram, .fa-github {
 		animation-name: float;
 		animation-duration: 3s;
 		animation-timing-function: ease-in-out;
